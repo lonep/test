@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\MySoft\CLion 2020.2.4\MinGw\mingw32
+Options: 
+
+Options:
